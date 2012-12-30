@@ -101,7 +101,7 @@
 
   _diskpreparation="Harddisk forberedelse"
   _assistprepa="Assisteret forberedelse (sletter hele disken!)"
-  _manualpartit="Partitioner ved hånd og vælg partioner der skal bruges"
+  _manualpartit="Partitionér ved hånd og vælg partioner der skal bruges"
   _mainmenulabel="Hovedmenu"
   _runninginitcpio="Kører mkinitcpio..."
   _runninginitcpiotitle="Bygger initramfs afbildning..."
