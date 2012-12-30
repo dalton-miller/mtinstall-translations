@@ -121,7 +121,7 @@
   _hostsdenytext="Blokerede netværks tjenester"
   _hostsallowtext="Tilladede netværks tjenester"
   _localegentext="Sprog (sat til EN som standard)"
-  _mirrorlisttext="Pakker spejl liste"
+  _mirrorlisttext="Spejl liste for pakker"
   _xorgevdevconftext="Xorg keymap"
   _xorgkblayouttext="Xorg tastatur layout"
   _installabootloader="Installer en opstartsindlæser?"
