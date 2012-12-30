@@ -51,7 +51,7 @@
   _formattingpart="Formaterer"
   _mountingparton="monterer på"
   _mountingpart="Monterer"
-  _partsmountsuccess="Partitionerne var monteret med success."
+  _partsmountsuccess="Partitionerne blev monteret med success."
   
   #Bridge Additions
   _isefi="Er dit system BIOS eller EFI baseret?"
