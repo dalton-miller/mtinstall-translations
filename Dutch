@@ -67,7 +67,7 @@ TITLE="Bridge Linux Installer"
   _copyfinished='Kopiëren bestanden compleet.'
 
   _configuringsystem="Configuratie is bezig..."
-  _addonsinsttitle=" ==== installatie toevoegingen (Addons)===="
+  _addonsinsttitle=" ==== installatie toevoegingen (Addons) ===="
   _wichaddonsinstall="Welke toevoegingen wil je installeren?"
   _whichaddonsinst1='1) Kies tussen de beschikbare installatie toevoegingen'
   _whichaddonsinst2='2) Installeer, installeerbare toevoegingen, tussen de momenteel aangekoppelde toevoegingen'
@@ -129,16 +129,16 @@ TITLE="Bridge Linux Installer"
   _installnobl="Als je weet wat je doet."
   _none_label="Geen"
 
-  _mainmenuhelp="Use the up and down arrows to choose an entry, enter to launch it."
-  _datetimetext="Set date and time"
-  _preparediskstext="Disk(s) preparation"
-  _installsystemtext="Install system"
-  _configuresystemtext="Configure system"
-  _instbootloadertext="Install bootloader"
-  _quittext="Quit"
-  _installationfinished='Installation finished!'
-  _cancelinstall="Cancel installation?"
-  _instwelcomemessage="Welcome to the Bridge Linux install script. If you need help, try asking at the forums at http://millertechnologies.net/forum"
-  _forgotsystemconf="You forgot system configuration. Press enter."
-  _forgotinstalling="Installing before configuring would seem more logical. Press enter."
-  _forgotpreparehd="Prepare HD first or mount what you want in /mnt/install and type "perso" here. Press enter."
+  _mainmenuhelp="Gebruik de Omhoog en Omloog pijtjes, om te kiezen en Enter om het uit te voeren."
+  _datetimetext="Stel de datum en tijd in"
+  _preparediskstext="Voorbereiding van schijven"
+  _installsystemtext="Installeer het systeem"
+  _configuresystemtext="Configureer het system"
+  _instbootloadertext="Installeer de bootlader"
+  _quittext="Verlaat"
+  _installationfinished='Installatie gedaan!'
+  _cancelinstall="Annuleer de installatie?"
+  _instwelcomemessage="Welkom bij de installatie script van Bridge Linux. Als je hulp nodig hebt, probeer het te vragen in de fora op http://millertechnologies.net/forum"
+  _forgotsystemconf="Je bent de systeem configuratie vergeten. Druk enter."
+  _forgotinstalling="Installeren voor het configureren zou logischer zijn. Druk enter."
+  _forgotpreparehd="Bereid de Harde schijf eerst of koppel aan wat je wilt in /mnt/install en typ "perso" hier. Druk enter."
