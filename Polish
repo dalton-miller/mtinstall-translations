@@ -141,4 +141,4 @@
   _instwelcomemessage="Witamy w Instalatorze Bridge Linuksa. Jeśli potrzebujesz pomocy, zapytaj na forum: http://millertechnologies.net/forum."
   _forgotsystemconf="Pominięto konfigurację systemu. Naciśnij [Enter]."
   _forgotinstalling="Instalacja przed konfiguracją wydaje się bardziej logiczna. Naciśnij [Enter]."
-  _forgotpreparehd="Najpierw przygotuj dysk twardy lub zamontouj coś w /mnt/install i wpisz tutaj 'perso'. Naciśnij [Enter]."
+  _forgotpreparehd="Najpierw przygotuj dysk twardy lub zamontuj coś w /mnt/install i wpisz tutaj 'perso'. Naciśnij [Enter]."
